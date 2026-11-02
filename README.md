@@ -4,6 +4,7 @@
 - プライバシーポリシー: https://bakulab-code.github.io/otoku-info/privacy/
 - サポート: https://bakulab-code.github.io/otoku-info/support/
 - お問い合わせ: bakulab.g@gmail.com
+- 運営者: DAISUKE UEDA
 
 GitHub Pagesで公開する静的HTML/CSSのみのサイトです。
 GitHub Pagesの公開元は `main` ブランチのルートを使用します。
