@@ -2,6 +2,7 @@
 
 - トップ: https://bakulab-code.github.io/otoku-info/
 - プライバシーポリシー: https://bakulab-code.github.io/otoku-info/privacy/
+- 外部への情報送信について: https://bakulab-code.github.io/otoku-info/privacy/external-services/
 - サポート: https://bakulab-code.github.io/otoku-info/support/
 - お問い合わせ: bakulab.g@gmail.com
 - 運営者: DAISUKE UEDA
